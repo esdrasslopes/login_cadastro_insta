@@ -15,5 +15,6 @@ Este é um projeto simples de clone da página de login do Instagram, criado com
 ## Como Usar
 
 1. **Clone o repositório**:
-   ```bash https://github.com/esdrasslopes/login_cadastro_insta.git
+   ```bash
+    git clone https://github.com/esdrasslopes/login_cadastro_insta.git
  
